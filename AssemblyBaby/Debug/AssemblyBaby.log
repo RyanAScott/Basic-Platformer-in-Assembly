@@ -1,0 +1,3 @@
+﻿  Assembling Source.asm...
+Source.asm(3): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  AssemblyBaby.vcxproj -> C:\Users\ryana\OneDrive\Desktop\Programming Projects\AssemblyBaby\Debug\AssemblyBaby.exe
